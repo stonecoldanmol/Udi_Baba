@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Udi Baba</string>
+
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="title_activity_nearby_shops">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string-array name="options">
+        <item>Near Current Location</item>
+        <item>Near Registered Location</item>
+    </string-array>
+
+
+</resources>
